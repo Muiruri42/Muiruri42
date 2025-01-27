@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Python, Golang**
 
-- 👨‍💻 All of my projects are available at [www.infinityhackers.tech](www.infinityhackers.tech)
+- 👨‍💻 All of my projects are available at [www.kresswell.me](www.infinityhackers.tech)
 
-- 📝 I regularly write articles on [www.tynix.tech](www.tynix.tech)
-
-- 📫 How to reach me **help@infinityhackers.com**
+- 📫 How to reach me **kresswell@shrx.pw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
