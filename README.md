@@ -5,19 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notoriousbigg" alt="notoriousbigg" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/babygangstarr" target="blank"><img src="https://img.shields.io/twitter/follow/babygangstarr?logo=twitter&style=for-the-badge" alt="babygangstarr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_kresswell" target="blank"><img src="https://img.shields.io/twitter/follow/babygangstarr?logo=twitter&style=for-the-badge" alt="_kresswell" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Golang**
-
-- 👨‍💻 All of my projects are available at [www.kresswell.me](www.infinityhackers.tech)
-
-- 📫 How to reach me **kresswell@shrx.pw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/muiruri42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muiruri42" height="30" width="40" /></a>
 <a href="https://twitter.com/babygangstarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="babygangstarr" height="30" width="40" /></a>
-<a href="https://instagram.com/kresswell0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kresswell0" height="30" width="40" /></a>
+<a href="https://instagram.com/kresswell_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kresswell" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/infinitytechhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infinitytechhub" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/muiruri0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muiruri0" height="30" width="40" /></a>
 </p>
